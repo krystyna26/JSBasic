@@ -1,0 +1,60 @@
+body{
+    color: white;
+   }
+#wrapper{
+    width: 970px;
+    background-color: #05195b;
+    padding: 10px;
+}
+#pagetitle{
+	background-color: red;
+	color: #25c7e9;
+	border-radius: 10px;
+	padding: 15px;
+}
+
+#nav-menu{
+	display: inline-block;
+	background-color: #009999;
+	padding: 20px;
+	border-radius: 10px;
+	color: #00c6c6;
+	vertical-align: top;
+}
+
+#content{
+	display: inline-block;
+	width: 680px;
+	margin-left: 3px;
+	margin-bottom: 6px;
+	background-color: black;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+li{
+	margin-bottom: 6px;
+}
+
+footer{
+	background-color: grey;
+	border-radius: 10px;
+	padding: 2px;
+	height: 40px;
+	margin: 2px;
+}
+
+.blue{
+	color: #6666ff;
+}
+
+
+.green{
+	color: green;
+}
+
+
+
+
+
+
